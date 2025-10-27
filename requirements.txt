@@ -1,0 +1,23 @@
+# VKinder - Зависимости проекта
+# Установка: pip install -r requirements.txt
+
+# Основные библиотеки
+vk-api==11.9.9
+psycopg2-binary==2.9.10
+python-dotenv==1.0.0
+
+# Дополнительные библиотеки
+requests==2.31.0
+urllib3==2.0.4
+
+# Библиотеки для разработки и тестирования (опционально)
+pytest==7.4.0
+pytest-asyncio==0.21.1
+black==23.7.0
+flake8==6.0.0
+
+# Логирование
+colorama==0.4.6
+
+# Работа с датами
+python-dateutil==2.8.2
