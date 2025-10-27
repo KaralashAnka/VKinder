@@ -97,7 +97,7 @@ vkinder/
    git clone https://github.com/KaralashAnka/VKinder.git
 2.	Перейдите в папку проекта:
     ```bash
-    cd VK
+    cd VKinder
 3. Установите зависимости:
     ```bash
     pip install -r requirements.txt
