@@ -94,7 +94,7 @@ vkinder/
 
 1. Клонируйте репозиторий:  
    ```bash
-   git clone https://github.com/Sleeping-Beauty-G/VK.git
+   git clone https://github.com/KaralashAnka/VKinder.git
 2.	Перейдите в папку проекта:
     ```bash
     cd VK
